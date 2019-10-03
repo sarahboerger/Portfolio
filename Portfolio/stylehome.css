@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  height: 600px;
+}
+
+      .tagling {
+        padding: 20px;
+      }
+
+            #name {
+              font-weight: bold;
+              font-size: 40px;
+              text-align: center;
+              text-shadow: 4px 4px 5px #415370;
+              margin-top: 100px;
+              margin-bottom: 10px;
+            }
+
+            #fag {
+              font-weight: bold;
+              font-size: 30px;
+              text-align: center;
+              text-shadow: 4px 4px 5px #415370;
+              margin-top: 0px;
+
+            }
+
+      .picture {
+      padding: 40px
+      }

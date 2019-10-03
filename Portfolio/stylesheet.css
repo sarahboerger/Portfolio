@@ -1,0 +1,73 @@
+*{
+  margin: 0px;
+}
+
+body {
+  background: linear-gradient(141deg, #9c9898 0%, #454343 41%, #000 75%);
+  color: #b8b8b8;
+  font-family: Spectral, serif;
+  line-height: 140%;
+  height: 100%;
+}
+
+
+
+/* Add a background color to the top navigation */
+.topnav {
+  background-color: #bfbfbf;
+  overflow: hidden;
+  border: 3px solid #1a1a1a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #1a1a1a;
+
+  padding: 25px 25px 25px 25px;
+  text-decoration: none;
+  font-size: 30px;
+
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: lightgrey;
+  color: #1a1a1a;
+  font-weight: Bold;
+}
+
+h1 {
+  text-align: center;
+  color: #b8b8b8;
+  font-family: Spectral, serif;
+}
+
+h3 {
+  color: #b8b8b8;
+  padding: 7px;
+}
+
+h4 {
+  color: #b8b8b8;
+  padding: 7px;
+}
+
+p {
+  color: #b8b8b8;
+  font-size: 15px;
+}
+
+
+.title {
+  margin: 1em;
+}

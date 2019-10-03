@@ -1,0 +1,50 @@
+.about {
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+  margin-left: 20%;
+  margin-right: 10%;
+  margin-bottom: 30px;
+}
+
+          .tekst {
+            font-size: 15px;
+            line-height: 140%
+          }
+
+.volunteer{
+  margin-left: 5%;
+}
+
+.volunteer h3 {
+  margin-bottom: 0px;
+}
+
+#title {
+  margin: 1em;
+}
+
+
+.main-container {
+  display: flex;
+  display: inline;
+}
+
+.text-container{
+  float: right;
+  width: 80%;
+}
+
+.picture-container
+{
+  float: left;
+  width: 10%;
+  padding: 5%;
+  padding-top: 10px;
+}
+
+#pic1 {
+  padding: 20px;
+  padding-top: 0px;
+}
